@@ -1,1 +1,0 @@
-I want to use emoji in my applications
